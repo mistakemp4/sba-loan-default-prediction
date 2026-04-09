@@ -85,6 +85,9 @@ To improve decision-making, multiple probability thresholds were evaluated:
 | 0.40      | 75.8%  | 62.5%       | 66.9%    |
 | 0.50      | 8.7%   | 97.9%       | 67.8%    |
 
+<img width="1206" height="899" alt="Screenshot 2026-04-09 110959" src="https://github.com/user-attachments/assets/4b8ec6c2-e7e6-46c1-9b30-6ba924b5660d" />
+
+
 ---
 
 ### **Key insight**
