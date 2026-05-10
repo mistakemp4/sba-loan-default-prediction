@@ -1,4 +1,4 @@
-# **SBA Loan Default Prediction with Logistic Regression**
+# **SBA Subset Loan Default Prediction with Logistic Regression**
 
 This project analyzes SBA loan data to predict default risk using logistic regression. The goal is to identify key drivers of default and demonstrate how model decisions should be aligned with business risk, not just default statistical thresholds.
 
